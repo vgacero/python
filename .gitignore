@@ -2,4 +2,4 @@
 private.txt
 
 #Exclude this files or folders
-public.txt
+!public.txt
