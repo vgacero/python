@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 #Ignore this files or folders
 private.txt
 
 #Exclude this files or folders
 !public.txt
+=======
+private.txt
+>>>>>>> parent of d2ac4d1... add new entry - 8/16/2020
