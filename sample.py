@@ -1,1 +1,1 @@
-print("Ahoy there!")
+print("Mabuhay PHILIPPINES")
